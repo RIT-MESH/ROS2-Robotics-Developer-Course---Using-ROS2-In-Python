@@ -52,3 +52,4 @@ Website: http://wiki.ros.org/rqt
     5) now we are in ros2_py_ws type command ***colcon build***
     6) if got error then type this command ***sudo apt install python3-colcon-common-extensions***
     7) After that  to include our package in our terminal environment  ***source install/setup.bash***
+    8) to check package list ***ros2 pkg list***
