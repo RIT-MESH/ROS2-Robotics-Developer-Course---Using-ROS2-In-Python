@@ -29,3 +29,13 @@ Website: http://wiki.ros.org/rqt
 
 <p align="center"><img src="https://github.com/RIT-MESH/ROS2-Robotics-Developer-Course---Using-ROS2-In-Python/blob/main/images/ros3.png?raw=true"alt="Sublime's custom image"/>
 </p>
+
+
+### Extra Resources:
+- http://design.ros2.org/articles/changes.html
+
+- https://design.ros2.org/articles/ros_on_dds.html
+
+- https://design.ros2.org/articles/ros2_access_control_policies.html
+
+- https://github.com/ros2/ros1_bridge
