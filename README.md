@@ -39,3 +39,16 @@ Website: http://wiki.ros.org/rqt
 - https://design.ros2.org/articles/ros2_access_control_policies.html
 
 - https://github.com/ros2/ros1_bridge
+
+## Create ROS2 Workspace
+- Create workspace folder ***workspaces***
+- Inside this folder create folder ***ros2-py-ws***
+- Inside this folder create source folder ***src***
+- Now open the terminal and typer the following commands
+    1) cd workspaces/ros2_py_ws/src
+    2) ros2 pkg create ros2_pkg --build-type ament-cmake
+    3) inside the ros2_pkg folder create ***scripts*** folder
+    4) cd ../
+    5) now we are in ros2_py_ws type command ***colcon build***
+    6) if got error then type this command ***sudo apt install python3-colcon-common-extensions***
+    7) After that  to include our package in our terminal environment  ***source install/setup.bash***
