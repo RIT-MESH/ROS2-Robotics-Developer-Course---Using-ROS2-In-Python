@@ -12,3 +12,9 @@ And lastly, we utilize a create timer function to run a callback function at a p
 We then loaded the data attribute of it with the data we wanted to send.
 Then we call the publish function of our publisher variable, which takes in the message object and publishes it over Ros.
 Lastly, within our main function we initialize our ROS communications and use the spin function to keep the node running.
+<p align="center"><img src="https://github.com/RIT-MESH/ROS2-Robotics-Developer-Course---Using-ROS2-In-Python/blob/main/images/publisher3.png?raw=true"alt="Sublime's custom image"/>
+ </p>
+
+ ## Treminal Output
+ <p align="center"><img src="https://github.com/RIT-MESH/ROS2-Robotics-Developer-Course---Using-ROS2-In-Python/blob/main/images/ros%20publisher1.png?raw=true"alt="Sublime's custom image"/>
+ </p>
