@@ -8,5 +8,8 @@ In this lecture we just printed the data attribute of our string message, but yo
  </p>
 
 ## Terminal output
+
+
+So now we see our publisher Node is running and our subscriber node, which is subscribed to that same topic, is receiving all of the messages.
 <p align="center"><img src="https://github.com/RIT-MESH/ROS2-Robotics-Developer-Course---Using-ROS2-In-Python/blob/main/images/subscriber1.png?raw=true"alt="Sublime's custom image"/>
  </p>
