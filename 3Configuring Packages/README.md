@@ -16,6 +16,6 @@ We also took a look at how to configure our package XML and setup files.
 <p align="center"><img src="https://github.com/RIT-MESH/ROS2-Robotics-Developer-Course---Using-ROS2-In-Python/blob/main/images/Configuration5.png?raw=true"alt="Sublime's custom image"/>
  </p>
 
- ## Treminal output
+ ## Terminal output
  <p align="center"><img src="https://github.com/RIT-MESH/ROS2-Robotics-Developer-Course---Using-ROS2-In-Python/blob/main/images/Configuration1.png?raw=true"alt="Sublime's custom image"/>
  </p>
