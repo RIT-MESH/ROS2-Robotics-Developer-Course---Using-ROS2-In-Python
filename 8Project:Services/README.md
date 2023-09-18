@@ -23,9 +23,9 @@ In order to complete this task, I will use the OpenCV Library, which is a common
  </p>
 
 ## Terminal Output
-<p align="center"><img src="https://github.com/RIT-MESH/ROS2-Robotics-Developer-Course---Using-ROS2-In-Python/blob/main/images/project32.png?raw=true"alt="Sublime's custom image"/>
+<p align="center"><img src="https://github.com/RIT-MESH/ROS2-Robotics-Developer-Course---Using-ROS2-In-Python/blob/main/images/project41.png?raw=true"alt="Sublime's custom image"/>
  </p>
- <p align="center"><img src="https://github.com/RIT-MESH/ROS2-Robotics-Developer-Course---Using-ROS2-In-Python/blob/main/images/project32.png?raw=true"alt="Sublime's custom image"/>
+ <p align="center"><img src="https://github.com/RIT-MESH/ROS2-Robotics-Developer-Course---Using-ROS2-In-Python/blob/main/images/project42.png?raw=true"alt="Sublime's custom image"/>
  </p>
- <p align="center"><img src="https://github.com/RIT-MESH/ROS2-Robotics-Developer-Course---Using-ROS2-In-Python/blob/main/images/project32.png?raw=true"alt="Sublime's custom image"/>
+ <p align="center"><img src="https://github.com/RIT-MESH/ROS2-Robotics-Developer-Course---Using-ROS2-In-Python/blob/main/images/project43.png?raw=true"alt="Sublime's custom image"/>
  </p>
