@@ -13,3 +13,7 @@ and publishes the calculated speed of the robot. You should be able to run these
 <p align="center"><img src="https://github.com/RIT-MESH/ROS2-Robotics-Developer-Course---Using-ROS2-In-Python/blob/main/images/projict12.png?raw=true"alt="Sublime's custom image"/>
  </p>
 
+ ## Terminal Output
+ <p align="center"><img src="https://github.com/RIT-MESH/ROS2-Robotics-Developer-Course---Using-ROS2-In-Python/blob/main/images/projict14.png?raw=true"alt="Sublime's custom image"/>
+ </p>
+
