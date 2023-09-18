@@ -23,3 +23,10 @@ An additional thing to note is we will also need to create a publisher to simula
 which tells us the current point the robot is at.
 Our action will find the distance between the goal point and the simulated current position to send
 feedback on how far the robot is from the goal.
+
+
+## Terminal Output
+<p align="center"><img src="https://github.com/RIT-MESH/ROS2-Robotics-Developer-Course---Using-ROS2-In-Python/blob/main/images/project51.png?raw=true"alt="Sublime's custom image"/>
+ </p>
+<p align="center"><img src="https://github.com/RIT-MESH/ROS2-Robotics-Developer-Course---Using-ROS2-In-Python/blob/main/images/project51.png?raw=true"alt="Sublime's custom image"/>
+ </p>
