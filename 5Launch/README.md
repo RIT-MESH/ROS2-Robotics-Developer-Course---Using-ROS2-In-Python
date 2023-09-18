@@ -8,3 +8,6 @@ our launch file and we specify output to screen so that the output of these comm
 <p align="center"><img src="https://github.com/RIT-MESH/ROS2-Robotics-Developer-Course---Using-ROS2-In-Python/blob/main/images/launch2.png?raw=true"alt="Sublime's custom image"/>
  </p>
 
+## Terminal Output
+<p align="center"><img src="https://github.com/RIT-MESH/ROS2-Robotics-Developer-Course---Using-ROS2-In-Python/blob/main/images/launch1.png?raw=true"alt="Sublime's custom image"/>
+ </p>
