@@ -26,7 +26,7 @@ feedback on how far the robot is from the goal.
 
 
 ## Terminal Output
-<p align="center"><img src="https://github.com/RIT-MESH/ROS2-Robotics-Developer-Course---Using-ROS2-In-Python/blob/main/images/project51.png?raw=true"alt="Sublime's custom image"/>
+<p align="center"><img src="https://github.com/RIT-MESH/ROS2-Robotics-Developer-Course---Using-ROS2-In-Python/blob/main/images/project54.png?raw=true"alt="Sublime's custom image"/>
  </p>
-<p align="center"><img src="https://github.com/RIT-MESH/ROS2-Robotics-Developer-Course---Using-ROS2-In-Python/blob/main/images/project51.png?raw=true"alt="Sublime's custom image"/>
+<p align="center"><img src="https://github.com/RIT-MESH/ROS2-Robotics-Developer-Course---Using-ROS2-In-Python/blob/main/images/project55.png?raw=true"alt="Sublime's custom image"/>
  </p>
