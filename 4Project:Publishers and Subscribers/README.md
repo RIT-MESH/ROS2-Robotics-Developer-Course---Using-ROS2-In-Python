@@ -7,3 +7,9 @@ Now, we have no idea how fast the robot is actually going on this.we take into a
 to the RPM topic calculates the speed the robot is going based on its wheel size and then publishes a result to the topic called speed.
 <p align="center"><img src="https://github.com/RIT-MESH/ROS2-Robotics-Developer-Course---Using-ROS2-In-Python/blob/main/images/projict11.png?raw=true"alt="Sublime's custom image"/>
  </p>
+
+ In this project, you will create two nodes, one which publishes a value simulating rotations per minute of the robot wheel spinning and a second script which subscribes to this value, and then goes ahead
+and publishes the calculated speed of the robot. You should be able to run these two nodes in two separate terminals to get your corresponding output.
+<p align="center"><img src="https://github.com/RIT-MESH/ROS2-Robotics-Developer-Course---Using-ROS2-In-Python/blob/main/images/projict12.png?raw=true"alt="Sublime's custom image"/>
+ </p>
+
