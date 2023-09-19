@@ -1,5 +1,5 @@
 The first tool we will use is called Orvis, which is a3d visualization tool to run it.
-Let's open a new terminal and run RVIZ two.
+Let's open a new terminal and run rviz2.
 
 When it opens, we can see a series of panels, so go ahead and maximize the window.
 This main dark colored section is actually a3d view window.
